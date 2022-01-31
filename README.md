@@ -5,7 +5,7 @@ npm i nami-wallet-api
 ```
 
 **Usage**
-
+WHERE MOTHERFUCKER WHERE DO I USE THIS CODE
 
 Import with await 
 
